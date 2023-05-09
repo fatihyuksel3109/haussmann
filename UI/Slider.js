@@ -18,8 +18,8 @@ const PhotoSlider = () => {
         <Image
           src="/images/slider-photo1.jpg"
           alt="Slider Image 1"
-          width={800}
-          height={400}
+          width={1000}
+          height={500}
         />
       </div>
       <div>

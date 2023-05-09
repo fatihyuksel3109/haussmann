@@ -179,7 +179,7 @@ function Footer() {
             </ul>
           </div>
         </div>
-        <div className="px-4 py-6 bg-teal-50 md:flex items-center justify-between">
+        <div className="px-4 py-6 bg-teal-50 md:flex items-center justify-center">
           <span className="text-sm text-gray-500 dark:text-gray-500 text-center hover:text-teal-400">
             © 2023 <a href="https://www.linkedin.com/in/fatihyuksell" target="_blank">FY-HA™</a>
             . All Rights Reserved.
