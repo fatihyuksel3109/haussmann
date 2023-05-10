@@ -152,31 +152,21 @@ function Footer() {
             </h2>
             <ul className="text-gray-500 font-medium">
               <li className="mt-4">
-                <Link href="#" className="hover:underline">
-                  Tapis de pierre
+                <Link href="/" className="hover:underline">
+                  Accueil
                 </Link>
               </li>
               <li className="mt-4">
-                <Link href="#" className="hover:underline">
-                  Sols Industriels
+                <Link href="/contact" className="hover:underline">
+                  Contact
                 </Link>
               </li>
               <li className="mt-4">
-                <Link href="#" className="hover:underline">
-                  Étanchéité
-                </Link>
-              </li>
-              <li className="mt-4">
-                <Link href="#" className="hover:underline">
+              <Link href="/galerie" className="hover:underline">
                   Galerie
                 </Link>
-              </li>{" "}
-              <li className="mt-4">
-                <Link href="#" className="hover:underline">
-                  Devis en 24H
-                </Link>
               </li>
-            </ul>
+              </ul>
           </div>
         </div>
         <div className="px-4 py-6 bg-teal-50 md:flex items-center justify-center">
